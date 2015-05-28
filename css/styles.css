@@ -1,0 +1,14 @@
+.hide {
+  display:none;
+  visibility: hidden;
+}
+input, button {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.movie {
+  background-color: silver;
+  padding: 10px;
+  margin-bottom: 10px;
+}
